@@ -1,0 +1,23 @@
+[
+	{
+		"name": "String",
+		"imageURL": "String",
+		"details": "String",
+		"sound": ["G", "C", "Cm"],
+		"chord": "C"
+	},
+	{
+		"name": "ASDF",
+		"imageURL": "FDA",
+		"details": "ASDF",
+		"sound": ["D","E","A"],
+		"chord": "A"
+	},
+	{
+		"name": "FDASASDF",
+		"imageURL": "asdfasdf",
+		"details": "asdfasdfasdfasdfasdf",
+		"sound": ["A","E","G"],
+		"chord": "E"
+	}
+]
