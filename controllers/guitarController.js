@@ -8,6 +8,12 @@ router.get('/', (req, res, next) => {
 		.catch(next);
 });
 
+router.get('/:chord', (req, res) => {
+	Guitar.findOne({ chord: req.params.chord }).then((c) => {
+		res.json(c);
+	});
+});
+
 router.post('/', (req, res, next) => {
 	Guitar.create(req.body)
 		.then((guitar) => res.status(201).json(guitar))

@@ -1,23 +1,66 @@
 [
 	{
-		"name": "String",
-		"imageURL": "String",
-		"details": "String",
+		"name": "A minor",
+		"imageURL": "https://i.postimg.cc/s2HsGCLc/A-m-chord.png",
+		"details": "The A Minor chord is composed of the notes A, C, and E.",
 		"sound": ["G", "C", "Cm"],
-		"chord": "C"
+		"chord": "Am"
 	},
 	{
-		"name": "ASDF",
-		"imageURL": "FDA",
-		"details": "ASDF",
-		"sound": ["D","E","A"],
+		"name": "A Major",
+		"imageURL": "https://i.postimg.cc/YCg4T78g/A-MM-chord.png",
+		"details": "This chord is made up of the notes A, C#, and E.",
+		"sound": ["D", "E", "A"],
 		"chord": "A"
 	},
 	{
-		"name": "FDASASDF",
-		"imageURL": "asdfasdf",
-		"details": "asdfasdfasdfasdfasdf",
-		"sound": ["A","E","G"],
+		"name": "C Major",
+		"imageURL": "https://i.postimg.cc/TPJKYcz3/C-chord.png",
+		"details": "The C Major chord is made up of the notes C, E, and G",
+		"sound": ["A", "E", "G"],
+		"chord": "C"
+	},
+	{
+		"name": "D Major",
+		"imageURL": "https://i.postimg.cc/mktkjWtP/D-M-chord.png",
+		"details": "This chord is composed of the notes D, F#, and A.",
+		"sound": ["D", "E", "A"],
+		"chord": "D"
+	},
+	{
+		"name": "D minor",
+		"imageURL": "https://i.postimg.cc/fLHkYRT4/D-mm-chord.png",
+		"details": "The notes in the D Minor chord are D, F, and A.",
+		"sound": ["D", "E", "A"],
+		"chord": "Dm"
+	},
+	{
+		"name": "E Major",
+		"imageURL": "https://i.postimg.cc/SsQJXM47/E-M-chord.png",
+		"details": "The notes in the Emaj chord are E, G#, and B.",
+		"sound": ["D", "E", "A"],
 		"chord": "E"
+	},
+	{
+		"name": "E minor",
+		"imageURL": "https://i.postimg.cc/pX3h0rQR/E-mm-chord.png",
+		"details": "The Em chord is composed of the notes E, G, and B.",
+		"sound": ["D", "E", "A"],
+		"chord": "Em"
+	},
+	{
+		"name": "F Major",
+		"imageURL": "https://i.postimg.cc/Bv080zwz/F-M-chord.png",
+		"details": "The notes in this chord are F, A, and C.",
+		"sound": ["D", "E", "A"],
+		"chord": "F"
+	},
+	{
+		"name": "G Major",
+		"imageURL": "https://i.postimg.cc/tJwTmvx2/G-M-chord.png",
+		"details": "This chord is made up of the notes G, B, and D.",
+		"sound": ["D", "E", "A"],
+		"chord": "G"
 	}
+
 ]
