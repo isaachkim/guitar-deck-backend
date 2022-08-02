@@ -6,7 +6,7 @@ const guitarSchema = new mongoose.Schema(
 		name: String,
         imageURL: String,
         details: String,
-        sound: [String],
+        sound: String,
         chord: String,
 	},
 );
